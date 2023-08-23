@@ -6,7 +6,7 @@
 
 ## To access this application, you can click the link provided(https://conquerershaki.github.io/challenge-week-03/) or gain access to it through github.
 
-![Application Screenshot](./develop/images/Screenshot.jpg)
+![Application Screenshot](./images/Screenshot.jpg)
 
 ## Through my research, I found a lot of useful bits here and there. Some from StackOverflow, W3Schools, and geeksforgeeks as well.
 

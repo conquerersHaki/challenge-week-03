@@ -29,6 +29,7 @@ var generateBtn = document.querySelector("#generate");
     var numericOptions = confirm("Would you like your password to contain numbers?");
     var specialSymbols = confirm("Would you like your password to contain special characters?");
     }
+    //creating if clauses for password criteria
 
     if (upperAlpha) {multiSelect += uppercaseABC;}
     if (lowerAlpha) {multiSelect += lowercaseABC;}

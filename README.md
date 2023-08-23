@@ -4,7 +4,7 @@
 
 ## To use this application, press the "generate password" button. You will be given a prompt. Enter the length you would like your password to be and select "ok." After this, prompts providing you the option to choose between uppercase and lowercase letters, numbers, and special characters to include in the random password. Once this is complete, a random password will be generated and will populate in the box on the web application.
 
-## To access this application, you can click the link provided() or gain access to it through github.
+## To access this application, you can click the link provided(https://conquerershaki.github.io/challenge-week-03/) or gain access to it through github.
 
 ![Application Screenshot](./develop/images/Screenshot.jpg)
 
